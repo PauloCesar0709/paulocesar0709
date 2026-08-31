@@ -12,15 +12,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/PauloCesar0709" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/PauloCesar0709" target="_blank"><img src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/github1.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:paulocsm2006@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:paulocsm2006@gmail.com" target="_blank"><img src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/gmail1.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531997046525" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531997046525" target="_blank"><img src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/wpp1.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pc_monteiro07" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pc_monteiro07" target="_blank"><img src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/insta1.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/paulo-c%C3%A9sar-desenvolvedor/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/paulo-c%C3%A9sar-desenvolvedor/" target="_blank"><img src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/linkedin1.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Paulo's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/spotify.svg?v=1&cb=1"/> Paulo's Spotify Data</summary>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31bbhjnggze2ono6qvlip4o43kni">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31bbhjnggze2ono6qvlip4o43kni" alt="Data Card for Spotify">
 </a>
