@@ -50,6 +50,8 @@
 <code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a></code>
 &nbsp; 
 <code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a></code>
+&nbsp;
+<code>![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)</a></code>
 &nbsp;  
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a></code>
 &nbsp;
@@ -66,6 +68,8 @@
 <code>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)</a></code>
 &nbsp; 
 <code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</a></code>
+&nbsp;
+<code>![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=c9a84c)</a></code>
 &nbsp; 
 <code>![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)</a></code>
 &nbsp; 
@@ -112,8 +116,9 @@
 </table>
 </div>
 
+-----
+
 <div>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!+%5Cn%22);%3Cprintf(%22Volte+sempre!!%5Cn%22);" alt="Typing SVG" />
 <div align="center">
 </div>
------
