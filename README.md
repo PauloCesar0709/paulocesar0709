@@ -38,6 +38,47 @@
 -----
 
 <div>
+
+<img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+
+<div align="center">
+ 
+<code>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a></code>
+&nbsp; 
+<code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a></code>
+&nbsp; 
+<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a></code>
+&nbsp; 
+<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a></code>
+&nbsp;  
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a></code>
+&nbsp;
+<code>![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a></code>
+&nbsp;
+<code>![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)</a></code>
+&nbsp; 
+<code>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a></code>
+&nbsp; 
+<code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a></code>
+&nbsp; 
+<code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a></code>
+&nbsp; 
+<code>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)</a></code>
+&nbsp; 
+<code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</a></code>
+&nbsp; 
+<code>![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)</a></code>
+&nbsp; 
+<code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a></code>
+&nbsp; 
+
+</div>
+
+</div>
+
+-----
+
+<div>
 <details>
 <summary><img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/spotify.svg?v=1&cb=1"/> Paulo's Spotify Data</summary>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31bbhjnggze2ono6qvlip4o43kni">
@@ -71,4 +112,8 @@
 </table>
 </div>
 
+<div>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!+%5Cn%22);%3Cprintf(%22Volte+sempre!!%5Cn%22);" alt="Typing SVG" />
+<div align="center">
+</div>
 -----
