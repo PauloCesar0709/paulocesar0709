@@ -82,6 +82,17 @@
 
 -----
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+
+<div>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+-----
+
 <div>
 <details>
 <summary><img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/spotify.svg?v=1&cb=1"/> Paulo's Spotify Data</summary>
