@@ -87,6 +87,85 @@
 <div>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 38 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                45 commits          ███████████░░░░░░░░░░░░░░   42.06 % 
+🌆 Daytime                26 commits          ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌃 Evening                36 commits          ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Tuesday                  34 commits          ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/PauloCesar0709/PauloCesar0709/master/assets/bar_graph.png)
+
+
+ Last Updated on 01/09/2026 12:32:53 UTC
 <!--END_SECTION:waka-->
 
 </div>
