@@ -212,3 +212,18 @@ CSS                      1 repo              ███░░░░░░░░�
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!+%5Cn%22);%3Cprintf(%22Volte+sempre!!%5Cn%22);" alt="Typing SVG" />
 <div align="center">
 </div>
+
+-----
+
+<div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PauloCesar0709/paulocesar0709/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PauloCesar0709/paulocesar0709/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/PauloCesar0709/paulocesar0709/output/pacman-contribution-graph.svg">
+</picture>
+ 
+</div>
