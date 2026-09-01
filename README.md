@@ -227,3 +227,17 @@ CSS                      1 repo              ███░░░░░░░░�
 </picture>
  
 </div>
+
+-----
+
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@90e28a55-c5b4-49ad-96a6-afc40636ef81">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
