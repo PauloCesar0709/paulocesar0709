@@ -87,9 +87,8 @@
 <div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue?style=flat)
+<a href="https://github.com/PauloCesar0709" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=PauloCesar0709&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
 
 **🐱 My GitHub Data** 
 
@@ -170,6 +169,22 @@ CSS                      1 repo              ███░░░░░░░░�
 
 -----
 
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@90e28a55-c5b4-49ad-96a6-afc40636ef81">WakaTime</a></td>
+</tr> 
+<tr>
+<td>
+<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=5" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
+
+-----
+
 <div>
 <details>
 <summary><img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/spotify.svg?v=1&cb=1"/> Paulo's Spotify Data</summary>
@@ -211,7 +226,6 @@ CSS                      1 repo              ███░░░░░░░░�
 <div align="center">
 </div>
 
------
 
 <div>
 
@@ -225,19 +239,3 @@ CSS                      1 repo              ███░░░░░░░░�
 </picture>
  
 </div>
-
------
-
-<table>
-<tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@90e28a55-c5b4-49ad-96a6-afc40636ef81">WakaTime</a></td>
-</tr> 
-<tr>
-<td>
-<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=5" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
-</td>
-<td>
-<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/></a>
-</td>
-</tr>
-</table>
