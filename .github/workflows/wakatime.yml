@@ -16,4 +16,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
-          LOCALE: "pt-BR"
