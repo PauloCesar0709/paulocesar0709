@@ -97,25 +97,40 @@
 <a href="https://github.com/PauloCesar0709" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=PauloCesar0709&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                57 commits          ████████████░░░░░░░░░░░░░   47.50 % 
-🌆 Daytime                26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-🌃 Evening                37 commits          ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌞 Morning                55 commits          ███████████░░░░░░░░░░░░░░   44.72 % 
+🌆 Daytime                27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+🌃 Evening                41 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  40 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Tuesday                  40 commits          ████████░░░░░░░░░░░░░░░░░   32.52 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 ```
 
 
@@ -125,31 +140,40 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     30 mins             █████████████░░░░░░░░░░░░   50.79 % 
-Java                     20 mins             ████████░░░░░░░░░░░░░░░░░   33.15 % 
-GitIgnore file           9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+HTML                     30 mins             ████████████░░░░░░░░░░░░░   48.48 % 
+Java                     23 mins             █████████░░░░░░░░░░░░░░░░   36.20 % 
+GitIgnore file           9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████░░░░   84.37 % 
-IntelliJ IDEA            9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+VS Code                  54 mins             █████████████████████░░░░   85.08 % 
+IntelliJ IDEA            9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+🤖 **AI Coding This Week** 
 
 ```text
-HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
- Last Updated on 02/09/2026 21:13:10 UTC
+
+
+
+ Last Updated on 03/09/2026 20:53:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
