@@ -86,22 +86,18 @@
 
 <div>
 
+<div align="center">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloCesar0709&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloCesar0709&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloCesar0709&theme=holi&utcOffset=0)
+ 
+</div>
+
 <a href="https://github.com/PauloCesar0709" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=PauloCesar0709&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
  
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -143,12 +139,6 @@ IntelliJ IDEA            9 mins              ████░░░░░░░�
 Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -158,9 +148,6 @@ Java                     1 repo              ███░░░░░░░░�
 Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-
-
-
 
  Last Updated on 02/09/2026 21:13:10 UTC
 <!--END_SECTION:waka-->
