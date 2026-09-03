@@ -83,18 +83,6 @@
 -----
 
 <img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/graphic.svg?raw=true"/>GitHub Stats:
-
-<div>
-
-<div align="center">
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloCesar0709&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloCesar0709&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloCesar0709&theme=holi&utcOffset=0)
- 
-</div>
-
-<a href="https://github.com/PauloCesar0709" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=PauloCesar0709&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue?style=flat)
@@ -171,11 +159,21 @@ CSS                      1 repo              ███░░░░░░░░�
 ```
 
 
-
-
  Last Updated on 03/09/2026 20:53:03 UTC
 <!--END_SECTION:waka-->
 
+</div>
+
+<br>
+
+<div>
+
+<div align="center">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloCesar0709&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PauloCesar0709&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PauloCesar0709&theme=holi&utcOffset=0)
+ 
 </div>
 
 -----
