@@ -21,3 +21,4 @@ jobs:
           SHOW_AI_CODING: "False"
           SYMBOL_VERSION: "3"
           BADGE_STYLE: "for-the-badge"
+          LOCALE: "pt"
