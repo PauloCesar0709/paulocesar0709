@@ -14,6 +14,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#90CAF9"
+          BAR_TRACK_COLOR: "#172f45"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
@@ -21,9 +27,3 @@ jobs:
           SHOW_AI_CODING: "False"
           SYMBOL_VERSION: "3"
           BADGE_STYLE: "for-the-badge"
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
