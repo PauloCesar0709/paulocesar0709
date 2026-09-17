@@ -37,6 +37,14 @@
 
 -----
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
+<div align="justify">
+Técnico em Desenvolvimento de Sistemas e Graduando em Engenharia de Software, pela Puc Minas, atualmente estou no 2º período. Sou um grande fã de tecnologia, minha linguagem preferida é o <a href="https://www.oracle.com/br/java/" target="_blank">Java</a>, mas também já trabalhei Python e linguagens Front-end. Adoro praticar esportes, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cabuloso</a>, também gosto de assistir basquete, futebol americano e jogar videogames. Minha série preferida se chama Supernatural, atualmente estou assistindo O Menstalista. Caso queira me encontrar, este é meu <a href="mailto:paulocsm2006@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:paulo.monteiro.1638575@sga.pucminas.br" target="_blank">e-mail</a> acadêmico da PUC Minas.<br/>
+</div>
+
+-----
+
 <div>
 
 <img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
