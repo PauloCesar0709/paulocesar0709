@@ -47,42 +47,42 @@ Técnico em Desenvolvimento de Sistemas e Graduando em Engenharia de Software, p
 
 <div>
 
-<img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="SVG" src="https://github.com/PauloCesar0709/paulocesar0709/blob/master/img/skills.gif?raw=true"/>&nbsp; Linguagens e ferramentas:
 
 <div align="center">
- 
-<code>![Bootstrap](https://img.shields.io/badge/bootstrap-111.svg?style=for-the-badge&logo=bootstrap&logoColor=c9a84c)</a></code>
-&nbsp; 
-<code>![CSS3](https://img.shields.io/badge/css3-111.svg?style=for-the-badge&logo=css3&logoColor=c9a84c)</a></code>
-&nbsp; 
-<code>![HTML5](https://img.shields.io/badge/html5-111.svg?style=for-the-badge&logo=html5&logoColor=c9a84c)</a></code>
-&nbsp; 
+
 <code>![Java](https://img.shields.io/badge/java-111.svg?style=for-the-badge&logo=openjdk&logoColor=c9a84c)</a></code>
 &nbsp;
 <code>![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)</a></code>
-&nbsp;  
+&nbsp; 
 <code>![JavaScript](https://img.shields.io/badge/javascript-111.svg?style=for-the-badge&logo=javascript&logoColor=c9a84c)</a></code>
 &nbsp;
+<code>![CSS3](https://img.shields.io/badge/css3-111.svg?style=for-the-badge&logo=css3&logoColor=c9a84c)</a></code>
+&nbsp; 
+<code>![HTML5](https://img.shields.io/badge/html5-111.svg?style=for-the-badge&logo=html5&logoColor=c9a84c)</a></code>
+&nbsp;  
+<code>![Bootstrap](https://img.shields.io/badge/bootstrap-111.svg?style=for-the-badge&logo=bootstrap&logoColor=c9a84c)</a></code>
+&nbsp; 
 <code>![Markdown](https://img.shields.io/badge/markdown-111.svg?style=for-the-badge&logo=markdown&logoColor=c9a84c)</a></code>
 &nbsp;
-<code>![Eclipse](https://img.shields.io/badge/Eclipse-111.svg?style=for-the-badge&logo=Eclipse&logoColor=c9a84c)</a></code>
+<code>![Vite](https://img.shields.io/badge/vite-111.svg?style=for-the-badge&logo=vite&logoColor=c9a84c)</a></code>
 &nbsp; 
-<code>![Figma](https://img.shields.io/badge/figma-111.svg?style=for-the-badge&logo=figma&logoColor=c9a84c)</a></code>
+<code>![React](https://img.shields.io/badge/react-111.svg?style=for-the-badge&logo=react&logoColor=c9a84c)</a></code>
 &nbsp; 
+<code>![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=c9a84c)</a></code>
+&nbsp;
 <code>![Git](https://img.shields.io/badge/git-111.svg?style=for-the-badge&logo=git&logoColor=c9a84c)</a></code>
-&nbsp; 
-<code>![GitHub](https://img.shields.io/badge/github-111.svg?style=for-the-badge&logo=github&logoColor=c9a84c)</a></code>
-&nbsp; 
-<code>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-111.svg?style=for-the-badge&logo=intellij-idea&logoColor=c9a84c)</a></code>
-&nbsp; 
+&nbsp;  
 <code>![MySQL](https://img.shields.io/badge/mysql-111.svg?style=for-the-badge&logo=mysql&logoColor=c9a84c)</a></code>
 &nbsp;
-<code>![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=c9a84c)</a></code>
+<code>![MongoDB](https://img.shields.io/badge/mongodb-111.svg?style=for-the-badge&logo=mongodb&logoColor=c9a84c)</a></code>
 &nbsp; 
 <code>![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-111.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=c9a84c)</a></code>
 &nbsp; 
 <code>![VS Code](https://img.shields.io/badge/VSCode-111.svg?style=for-the-badge&logo=vs-code&logoColor=c9a84c)</a></code>
 &nbsp; 
+<code>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-111.svg?style=for-the-badge&logo=intellij-idea&logoColor=c9a84c)</a></code>
+&nbsp;
 
 </div>
 
