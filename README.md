@@ -178,7 +178,7 @@ TypeScript               1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 </tr> 
 <tr>
 <td>
-<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=5" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=90e28a55-c5b4-49ad-96a6-afc40636ef81&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=7" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
 </td>
 </tr>
 </table>
