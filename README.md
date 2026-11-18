@@ -97,7 +97,7 @@ Técnico em Desenvolvimento de Sistemas e Graduando em Engenharia de Software, p
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2051%20mins-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue?style=for-the-badge)
 
 **Eu sou diurno 🐤** 
 
@@ -150,7 +150,7 @@ TypeScript               1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 17/11/2026 01:59:06 UTC
+ Last Updated on 18/11/2026 01:12:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
